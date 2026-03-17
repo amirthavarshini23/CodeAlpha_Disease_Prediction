@@ -6,7 +6,7 @@ This project predicts the likelihood of diabetes using machine learning algorith
 - Support Vector Machine
 - Random Forest
   
-# Evaluatio Metrics
+# Evaluation Metrics
 - Accuracy
 - Precision
 - Recall
